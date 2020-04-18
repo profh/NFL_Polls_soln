@@ -2,7 +2,7 @@ NFL Polls :: Spring 2020
 ===
 Because of the challenges of remote education, the first technical challenge we have for you today is to build a basic Poll class in Ruby that will help the NFL run some online polls.  This will cover a number of skills discussed in class related to testing, the Ruby object model, refactoring, and others.
 
-This project is being released at 12:01am EDT on Wednesday, April 22, 2020 via our GitLab server at darkknight-cmuis.net and must be completed and posted back to your private repository on darkknight no later than 11:59pm EDT on the same day.  It should not take all day to complete it, but given we have students throughout the world right now, a 24 hour period should allow everyone, wherever they may be, ample time to complete the technical challenge in a timely manner.
+This project is being released at or around 12:01am EDT on Wednesday, April 21, 2020 via our GitLab server at darkknight-cmuis.net and must be completed and posted back to your private repository on darkknight no later than 11:59pm EDT on the same day.  It should not take all day to complete it, but given we have students throughout the world right now, a 24 hour period should allow everyone, wherever they may be, ample time to complete the technical challenge in a timely manner.
 
 Getting Started
 ---
@@ -31,9 +31,11 @@ You are free to use your notes, look at any course code posted online, and look 
 
 Completing the Assignment
 ---
-The assignment must be completed and posted on your private repository (same place you retrieved this code from) no later than 11:59pm EDT on April 22, 2020.  The code must be on the master branch (no other branches will be graded) and the base level of the repository should be the base level of the application.  At the due time, all student repositories will be locked and you will have no further access. Do not attempt to zip your code and email it to Prof. H or the TAs after the deadline; Gmail will filter this out anyways thinking the code could be malware.
+The assignment must be completed and posted on your private repository (same place you retrieved this code from) no later than 11:59pm EDT on April 21, 2020.  The code must be on the master branch (no other branches will be graded) and the base level of the repository should be the base level of the application.  At the due time, all student repositories will be locked and you will have no further access. Do not attempt to zip your code and email it to Prof. H or the TAs after the deadline; Gmail will filter this out anyways thinking the code could be malware.
 
 Partial credit is available, of course, and you will get credit for as many of the tests as you get to pass in the time allowed.  We are not debugging nor giving partial credit for spelling mistakes, capitalization issues or other formatting problems, so please be careful of these types of problems.
+
+Finally: **If you have not done so already, be sure to electronically sign off on the Academic Integrity Pledge in the PLEDGE.md file.** Failure to do so will result in an immediate zero grade. (This was discussed at length in class and mentioned twice here in bold and once in italics, so we are pretty serious about this.)
 
 ---
 As always, should you or any of your IM Force be caught or killed, the Secretary will disavow any knowledge of your actions. This file will self-destruct in ten seconds. Good luck.

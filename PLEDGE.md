@@ -11,13 +11,14 @@ This is in many ways similar to an open-book, open-notes exam.  The following ar
 - You are free to use your own notes and books.
 - You may use any course code posted online as a reference.
 - You may look at the labs posted on the course website.  You may also use any code created in those exercises as a reference.
-- You may look on [stackoverflow.com](https://stackoverflow.com) for past answers that may be helpful to you. (However, do not post questions there; see below)
+- You may look on [stackoverflow.com](https://stackoverflow.com) for past questions and answers that may be helpful to you. (However, do not post questions there; see below)
 - You may refer at the online API for Rails and/or Ruby at [apidock.com](https://apidock.com).  
 
 Disallowed behaviors
 ---
 The work that you are submitting **must be your own work and not done in collaboration with any other person.**  To that end, the following are all examples of unacceptable behavior for the duration of the assignment:
 
+- You may _not_ utilize any other online resources other than the ones listed above.
 - You may _not_ post any questions related to this assignment on any online forum or outlet. (Any questions to piazza must be private and limited to technical issues with the starter code running on your laptop or questions of academic integrity.)
 - You may _not_ answer any questions in online outlets that could be related to this assignment.
 - You may _not_ share code or post your code in any forum or repository other than the private repository created for you with your Andrew ID on darkknight-cmuis.net. 

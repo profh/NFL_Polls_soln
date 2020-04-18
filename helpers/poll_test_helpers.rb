@@ -15,7 +15,7 @@ module PollTestHelpers
 
   # Return the expected options output 
   # (run sandbox.rb or see the pdf version if unsure)
-  def expected_options_output 
+  def expected_options_output_coaches
     options_output = [
       "Greatest NFL Coaches in Super Bowl Era",
       "-----------------------------------------",
@@ -31,7 +31,7 @@ module PollTestHelpers
   
    # Return the expected results output
    # (run sandbox.rb or see the pdf version if unsure)
-  def expected_results_output 
+  def expected_results_output_coaches 
     results_output = [
       "Greatest NFL Coaches in Super Bowl Era",
       "-----------------------------------------",
@@ -44,6 +44,33 @@ module PollTestHelpers
     ]
     return results_output
   end
+  
+  def expected_options_output_running_backs
+    options_output = [
+      "Greatest NFL Running Backs Ever",
+      "-----------------------------------------",
+      "Please choose from the following options:\n\n",
+      "Barry Sanders",
+      "Emmitt Smith",
+      "Jim Brown",
+      "Walter Payton"
+    ]
+    return options_output
+  end
+  
+  def expected_results_output_running_backs 
+    results_output = [
+      "Greatest NFL Running Backs Ever",
+      "-----------------------------------------",
+      "Current results (1014 votes):\n\n",
+      "Barry Sanders: 26%  (267)",
+      "Walter Payton: 26%  (267)",
+      "Jim Brown: 23%  (241)",      
+      "Emmitt Smith: 23%  (239)"
+    ]
+    return results_output
+  end
+
   
   # Spruce up minitest results...
   Minitest::Reporters.use! [Minitest::Reporters::SpecReporter.new]
