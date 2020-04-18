@@ -11,7 +11,7 @@ This is in many ways similar to an open-book, open-notes exam.  The following ar
 - You are free to use your own notes and books.
 - You may use any course code posted online as a reference.
 - You may look at the labs posted on the course website.  You may also use any code created in those exercises as a reference.
-- You may look on [stackoverflow.com](https://stackoverflow.com) for past questions and answers that may be helpful to you. (However, do not post questions there; see below)
+- You may look on [stackoverflow.com](https://stackoverflow.com) or [this course's piazza](https://piazza.com/class/k7xtobzz8m77hd) for past questions and answers that may be helpful to you. (However, do not post questions there; see below)
 - You may refer at the online API for Rails and/or Ruby at [apidock.com](https://apidock.com).  
 
 Disallowed behaviors
