@@ -24,7 +24,7 @@ module PollTestHelpers
       "Chuck Noll",
       "Joe Gibbs",
       "Tom Landry",
-      "Vince Lombardi"
+      "Vincent Lombardi"
     ]
     return options_output
   end
@@ -35,10 +35,10 @@ module PollTestHelpers
     results_output = [
       "Greatest NFL Coaches in Super Bowl Era",
       "-----------------------------------------",
-      "Current results (1486 votes):\n\n",
-      "Bill Belichick: 55%  (830)",
+      "Current results (1484 votes):\n\n",
+      "Bill Belichick: 55%  (828)",
       "Joe Gibbs: 15%  (232)",
-      "Vince Lombardi: 14%  (209)",      
+      "Vincent Lombardi: 14%  (209)",      
       "Chuck Noll: 10%  (161)",
       "Tom Landry: 3%  (54)"
     ]

@@ -59,7 +59,7 @@ class TestPoll < Minitest::Test
   end
   
   def test_winner_count
-    assert_equal 830, @poll1.winner_count
+    assert_equal 828, @poll1.winner_count
     assert_equal 267, @poll2.winner_count
   end
   
@@ -68,7 +68,7 @@ class TestPoll < Minitest::Test
     choice = @poll1.options.first
     assert_equal "Bill Belichick", choice
     belichick_count = @poll1.results.first[1]
-    assert_equal 830, belichick_count
+    assert_equal 828, belichick_count
     # execute the method
     @poll1.record_vote(choice)
     # assert postcondition
@@ -79,7 +79,7 @@ class TestPoll < Minitest::Test
   end
   
   def test_total_votes
-    assert_equal 1486, @poll1.total_votes
+    assert_equal 1484, @poll1.total_votes
     assert_equal 1014, @poll2.total_votes   
   end
   
